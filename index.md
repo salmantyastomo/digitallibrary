@@ -17,7 +17,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 
 6. [Tentang Kamu](ebook/Tere Liye - tentang kamu.pdf) - Tere Liye (2016)
  
-7. [Matahari] (ebook/Tere_Liye_-_Matahari.pdf) - Tere Liye (2016)
+7. [Matahari] (ebook/Tere_Liye_-_Matahari.pdf.pdf) - Tere Liye (2016)
 
 8. [Just a Friend to You](ebook/Ega Dyp - Just a Friend to You.pdf) - Ega Dyp (2020)
  
