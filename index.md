@@ -21,7 +21,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 
 8. [Just a Friend to You](ebook/Ega Dyp - Just a Friend to You.pdf) - Ega Dyp (2020)
  
-9. [Negeri Para Bedebah] (ebook/Negeri_Para_Bedebah.pdf] - Tere Liye (2012)
+9. [Negeri Para Bedebah] (ebook/Negeri_Para_Bedebah.pdf) - Tere Liye (2012)
 
 10. [William](ebook/Kumpul PDF - Risa Saraswati - William.pdf) - Risa Saraswati (2017)
  
