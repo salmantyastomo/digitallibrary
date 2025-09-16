@@ -42,6 +42,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 
 <a href="webti/halaman6.html">Halaman 6</a>
 
+<a href="webti/halaman7.html">Halaman 7</a>
 
 ---
 *Powered by Github Pages*
