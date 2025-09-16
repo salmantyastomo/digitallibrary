@@ -31,4 +31,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 ---
 
 [halaman 1](webti/halaman1.html)
+[halaman 2](webti/halaman2.html)
+[halaman 3](webti/halaman3.html)
+[halaman 1](webti/halaman4.html)
+
 *Powered by Github Pages*
