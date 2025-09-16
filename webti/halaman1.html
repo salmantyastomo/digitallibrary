@@ -1,0 +1,39 @@
+<html>
+<HEAD>
+<TITLE>Ini tab</TITLE>
+</HEAD>
+<body>
+<h1 style="background-color:pink;">
+<marquee direction="up">
+<font face="Arial" color="white">Selamat Datang di Halaman 1</font></h1>
+</marquee>
+</h1>
+<hr>
+<a href="halaman1.html">Halaman 1</a> |
+<a href="halaman2.html">Halaman 2</a> |
+<a href="halaman3.html">Halaman 3</a> |
+<a href="halaman4.html">Halaman 4</a> 
+<hr>
+<p><font color="purple" face="Times New Roman">Halo, nama saya Salman</font></p>
+<marquee direction="down" width="250" height="200"
+behavior="alternate" style="border:solid">
+<marquee behavior="alternate">
+Salman
+</marquee>
+</marquee>
+<p>Klik tombol untuk menampilkan Prompt Box</p>
+ <button onclick="myFunction()">Coba</button>
+ <p id="demo"></p>
+ <script>
+ function myFunction() {
+ var x;
+ var nama = prompt("Anda telah mengambil matakuliah Teknologi Informasi, ketikkan nama Anda!","Your Name Here");
+ var nim = prompt("Ketikkan nim Anda!");
+ var prodi = prompt("Ketikkan program studi Anda!");
+ if (nama != null) {
+ document.getElementById("demo").innerHTML ="Selamat Pagi " + nama + "! Nim : " + nim + " Prodi : " +prodi;
+ }
+ }
+ </script>
+</body>
+</html>
